@@ -9,13 +9,13 @@
 ### Binary image classification :
 
 - [Dogs or Cats](https://github.com/resh22an/tensorflow-developer-certificate-2022/blob/39407fd306e7b5ccc59ed611fe886112d6b70890/computer-vision-main/binary-image-classification/DogsVsCats.ipynb) - Classify images as Cats or Dogs
-- [Transfer Learning - Dogs or Cats](https://github.com/resh22an/computer-vision/blob/3fd3d2ed617dc09b044e26c82a1be98e5faa7ad2/binary-image-classification/DogsCats_TransferLearning.ipynb) - Using InceptionV3
-- [Horses or Humans](https://github.com/resh22an/computer-vision/blob/add42633516764693e8bbe8eea0ba1a912bd0929/binary-image-classification/HorsesHumans.ipynb) - Classify images as Horses or Humans
-- [Happy or Sad](https://github.com/resh22an/computer-vision/blob/add42633516764693e8bbe8eea0ba1a912bd0929/binary-image-classification/HappySad.ipynb) - Classify the emoji-like faces as Happy or Sad
+- [Transfer Learning - Dogs or Cats](https://github.com/resh22an/tensorflow-developer-certificate-2022/blob/9be6eba4c60e9695c2f3dac479c5e65cb2289315/computer-vision-main/binary-image-classification/DogsCats_TransferLearning.ipynb) - Using InceptionV3
+- [Horses or Humans](https://github.com/resh22an/tensorflow-developer-certificate-2022/blob/9be6eba4c60e9695c2f3dac479c5e65cb2289315/computer-vision-main/binary-image-classification/HorsesHumans.ipynb) - Classify images as Horses or Humans
+- [Happy or Sad](https://github.com/resh22an/tensorflow-developer-certificate-2022/blob/9be6eba4c60e9695c2f3dac479c5e65cb2289315/computer-vision-main/binary-image-classification/HappySad.ipynb) - Classify the emoji-like faces as Happy or Sad
     
 
 ### Multi class image classification :
 
-- [Rock Paper Scissors](https://github.com/resh22an/computer-vision/blob/43995b695cf161e15e6f6e53157c22a01cfe3319/multiclass-image-classification/RockPaperScissors.ipynb) - Recognize if the hand image is in rock or paper or scissors pose
-- [Sign language MNIST](https://github.com/resh22an/computer-vision/blob/1114e369647df6bb34cc03d8fab759b3a46f85d4/multiclass-image-classification/SignLanguageMNIST.ipynb) - Classify each image as the letter it represents
-- [Fashion MNIST](https://github.com/resh22an/computer-vision/blob/43995b695cf161e15e6f6e53157c22a01cfe3319/multiclass-image-classification/FashionMNIST.ipynb) - Recognize different items of clothing, trained from a dataset containing 10 different types
+- [Rock Paper Scissors](https://github.com/resh22an/tensorflow-developer-certificate-2022/blob/9be6eba4c60e9695c2f3dac479c5e65cb2289315/computer-vision-main/multiclass-image-classification/RockPaperScissors.ipynb) - Recognize if the hand image is in rock or paper or scissors pose
+- [Sign language MNIST](https://github.com/resh22an/tensorflow-developer-certificate-2022/blob/9be6eba4c60e9695c2f3dac479c5e65cb2289315/computer-vision-main/multiclass-image-classification/SignLanguageMNIST.ipynb) - Classify each image as the letter it represents
+- [Fashion MNIST](https://github.com/resh22an/tensorflow-developer-certificate-2022/blob/9be6eba4c60e9695c2f3dac479c5e65cb2289315/computer-vision-main/multiclass-image-classification/FashionMNIST.ipynb) - Recognize different items of clothing, trained from a dataset containing 10 different types
